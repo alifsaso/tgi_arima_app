@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser tgi_arima_app.ipynb
+web: voila --port=$PORT --no-browser tgiArima.ipynb
